@@ -1,0 +1,9 @@
+# Ignorar archivos CSV y HTML generados automáticamente
+*.csv
+*.html
+*.pdf
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+*.log
